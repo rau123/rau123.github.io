@@ -1,5 +1,5 @@
-title:Welcome to Ray's Homepage!
-description:Prepare for inconsistent updates and scattered pages!
+title: Welcome to Ray's Homepage!
+description: Prepare for inconsistent updates and scattered pages!
 
 
 
