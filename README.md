@@ -1,3 +1,9 @@
+title:Welcome to Ray's Homepage!
+description:Prepare for inconsistent updates and scattered pages!
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/rau123/rau123.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
